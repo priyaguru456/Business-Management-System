@@ -33,35 +33,6 @@ Charts & Visualization: Chart.js / Recharts
 
 Styling: Tailwind CSS / Bootstrap / CSS Modules
 
-🛠 Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/business-management.git
-
-Navigate to the project folder:
-
-cd business-management
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm start
-
-Open http://localhost:3000
- in your browser.
-
-🖼 Screenshots
-Dashboard
-
-Employee Management
-
-Analytics
-
-(Replace the above images with your actual screenshots in a screenshots folder)
 
 📝 Usage
 
